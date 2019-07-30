@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Format Cell Values
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1874)**
+**[[Run Online]](https://codecentral.devexpress.com/e1874/)**
 <!-- run online end -->
 
 
